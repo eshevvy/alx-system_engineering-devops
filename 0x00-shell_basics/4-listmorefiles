@@ -1,2 +1,2 @@
 #!/bin/bash   
-root@04c0b0f095a:~/alx-systems_engineering-devops/0x00-shell_basics ls -la
+ls -la
