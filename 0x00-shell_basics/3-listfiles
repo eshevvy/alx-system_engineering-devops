@@ -1,6 +1,0 @@
-#!/bin/bash
-ls -l         -rwxr-xr-x 1 996 992 70   0-current_working_directory
-              -rwxr-xr-x 1 996 992 62   1-listit
-              -rwxr-xr-x 1 996 992 21   2-bring_me_home
-              -rwxr-xr-x 1 996 992 648  3-listfiles
-              -rw-r--r-- 1 996 992 32   README.md
