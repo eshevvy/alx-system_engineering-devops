@@ -1,2 +1,2 @@
 #!/bin/bash
-0x00-shell_basics ls -l  Applications Documents Netflix Autocad
+ls -la /0x00-shell_basics/1listit/ Documents, Pictures Auto Cad
