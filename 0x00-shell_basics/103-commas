@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ma ./ *[[:digit:]alpha] 
+ls -map *[[:digit:]alpha] 
